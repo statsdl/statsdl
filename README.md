@@ -4,6 +4,13 @@
 
 # Namaste 🙏, I'm Aryan Bhambu
 
+<!-- PROFILE IMAGE START -->
+<p align="center">
+  <img src="assets/profile.jpg" width="230" alt="Aryan Bhambu profile photo" />
+</p>
+<!-- PROFILE IMAGE END -->
+
+
 ### Ph.D. Scholar · Department of Mathematics · IIT Guwahati
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Time+Series+Analysis+%E2%80%A2+Deep+Learning+%E2%80%A2+Randomized+Neural+Networks;Quantitative+Finance+%E2%80%A2+Volatility+Forecasting+%E2%80%A2+Risk+Assessment;Deep+Reinforcement+Learning+%E2%80%A2+LLMs+%E2%80%A2+Statistical+Learning;Open+to+Research+Collaborations+%26+Opportunities" alt="Typing SVG" width="90%" />
