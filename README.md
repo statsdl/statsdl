@@ -78,24 +78,6 @@
 
 ---
 
-## 🚀 Featured Research Packages
-
-<div align="center">
-
-| Package | Focus |
-|---|---|
-| **RedRVFL** | Recurrent ensemble RVFL for financial time-series forecasting |
-| **edRFT** | Deep RVFL transformer network for significant wave-height forecasting |
-| **volatility-gamm** | GARCH-based MLP Mixer for volatility forecasting and risk assessment |
-| **volatility-edrhn** | Randomized deep Hopfield network for volatility forecasting |
-| **heteroscedastic-edrvfl** | Heteroscedastic ensemble deep RVFL for volatility forecasting |
-| **classical-volatility-benchmarks** | Classical volatility models, realized measures, risk metrics, and statistical tests |
-| **shallow-randomized-benchmarks** | RVFL, ELM, ESN, BLS, SCN, and shallow randomized architectures |
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
