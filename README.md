@@ -38,9 +38,9 @@
 - 🎓 Ph.D. Scholar in Mathematics at **IIT Guwahati**
 - 🔬 Working on **time series analysis, financial forecasting, volatility modeling, and risk assessment**
 - 🧠 Interested in **randomized neural networks, deep learning, deep reinforcement learning, and statistical learning**
-- 📈 Research focus: **quantitative finance, volatility forecasting, portfolio optimization, and uncertainty estimation**
+- 📈 Research focus: quantitative finance, volatility forecasting, option pricing and hedging, survival analysis, DeFi risk modelling, medical time-to-event analysis, and uncertainty estimation
 - 🤖 Exploring **LLMs, AGI-oriented evaluation, and algorithmic validation**
-- 🧪 Building reproducible research packages for **forecasting, randomized architectures, and financial risk modeling**
+- 🧪 Building reproducible research packages for forecasting, randomized architectures, financial risk modelling, DeFi applications, and medical analytics
 - 🤝 Open to research collaborations, internships, and applied ML/AI research opportunities
 
 > *“Building statistically grounded learning frameworks for time-series analysis, financial decision-making, and uncertainty-aware forecasting.”*
@@ -49,7 +49,7 @@
 
 ## 📚 Research Interests
 
-**Time Series Analysis · Deep Learning · Deep Reinforcement Learning · Randomized Neural Networks · Statistical Learning · Quantitative Finance · LLMs · Volatility Forecasting · Risk Assessment · Portfolio Optimization · Uncertainty Estimation**
+**Time Series Analysis • Time-dependent Forecasting • Deep Learning • Deep Reinforcement Learning • Randomized Neural Networks • Statistical Learning • Quantitative Finance • Volatility Forecasting • Risk Assessment • Option Pricing • Hedging • Survival Analysis • Medical Analytics • Decentralized Finance • Portfolio Optimization • Uncertainty Estimation • LLMs**
 
 ---
 
@@ -93,11 +93,4 @@
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=statsdl&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
-
-
-## Research Focus
-
-
-## Applications in Finance
-
 
