@@ -34,7 +34,7 @@
 
 ## 👋 About Me
 
-- 🎓 Ph.D. Scholar in Mathematics at **IIT Guwahati**
+- 🎓 Ph.D. Scholar in Department of Mathematics at **IIT Guwahati**
 - 🔬 Working on **time series analysis, financial forecasting, volatility modeling, and risk assessment**
 - 🧠 Interested in **randomized neural networks, deep learning, deep reinforcement learning, and statistical learning**
 - 📈 Research focus: quantitative finance, volatility forecasting, option pricing and hedging, survival analysis, DeFi risk modelling, medical time-to-event analysis, and uncertainty estimation
