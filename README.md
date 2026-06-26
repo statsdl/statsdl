@@ -4,12 +4,6 @@
 
 # Namaste 🙏, I'm Aryan Bhambu
 
-<!-- PROFILE IMAGE START -->
-<p align="center">
-  <img src="assets/profile.jpg" width="230" alt="Aryan Bhambu profile photo" />
-</p>
-<!-- PROFILE IMAGE END -->
-
 
 ### Ph.D. Scholar · Department of Mathematics · IIT Guwahati
 
