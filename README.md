@@ -32,6 +32,14 @@
 
 ---
 
+
+<!-- ADDITIONAL INTERESTS START -->
+### Additional Research Interests
+
+Additional interests include **survival analysis**, **decentralized finance (DeFi)**, **medical and healthcare analytics**, **option pricing**, and **hedging**, with emphasis on risk modelling, time-to-event prediction, and decision-making under uncertainty.
+<!-- ADDITIONAL INTERESTS END -->
+
+
 ## 👋 About Me
 
 - 🎓 Ph.D. Scholar in Mathematics at **IIT Guwahati**
