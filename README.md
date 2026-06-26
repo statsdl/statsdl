@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/statsdl.png?size=21" width="160" height="160" style="border-radius: 50%;" alt="Aryan Bhambu"/>
-
 <!-- PROFILE IMAGE START -->
 <p align="center">
   <img src="assets/profile-github-site-v3.png" width="180" alt="Aryan Bhambu profile photo" />
