@@ -23,7 +23,7 @@
 <a href="https://scholar.google.com/citations?user=u3UybosAAAAJ&hl=en">
   <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
 </a>
-<a href="https://statsdl.github.io">
+<a href="https://aryanbhambu.github.io">
   <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
 </a>
 
@@ -83,13 +83,13 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=statsdl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aryanbhambu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=statsdl&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanbhambu&theme=tokyonight&hide_border=true" />
 
 <br>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=statsdl&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanbhambu&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
